@@ -57,6 +57,7 @@ js ---|---this
       |---BOM
       |---ES6
       |---ES6+
+      |---typescript
 
 
       |---基础图形知识
@@ -74,5 +75,6 @@ node ---|
 
 webpack+loader+plugin
 vue+router+vuex
+angular
 react+router+redux(mobx)
 </pre>
