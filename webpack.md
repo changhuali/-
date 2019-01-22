@@ -96,8 +96,8 @@ newCompilation(params) {
   this.hooks.compilation.call(compilation, params);
   return compilation;
 }
-We can get that newCompilation is used to init compilation
 ```
+We can get that newCompilation is used to init compilation
 ### Compilation: Class
 ```js
 class Compilation extends Tapable {
